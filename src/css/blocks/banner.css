@@ -61,7 +61,7 @@
 }
 
 .swiper-pagination-bullet {
-    --swiper-pagination-bullet-inactive-color: #000;
+    --swiper-pagination-bullet-inactive-color: #000000;
     -swiper-pagination-bullet-inactive-opacity: 1;
 }
 
